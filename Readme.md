@@ -3,4 +3,4 @@
 Este repo terá os scripts das aulas de shellscript, cada módulo será adicionado aqui.
 
 
-[aula01]|(aula01/aula01.sh)
+[aula01](aula01/aula01.sh)
