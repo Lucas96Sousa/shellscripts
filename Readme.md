@@ -5,5 +5,6 @@ Este repo terá os scripts das aulas de shellscript, cada módulo será adiciona
 
 [aula01-While method](aula01/aula01.sh)
 
-[aula02-Variavél Global](aula02/aula02.sh)
-[aula03-](aula03/aula03.sh)
+[aula02-Variável Global](aula02/aula02.sh)
+
+[aula03-Operadores String](aula03/aula03.sh)
